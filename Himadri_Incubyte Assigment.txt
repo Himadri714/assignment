@@ -1,0 +1,30 @@
+﻿Sales Data Analysis
+
+
+Revenue & Transactions analysis:
+
+* The business generated a total revenue of ₹10.2 billion from 500,000 transactions.
+* The average order value (AOV) is ₹20,405, indicating high-value transactions.
+* Top 5 cities that contributed to overall sales were Kolkata, Ahmedabad,Bangalore, Pune, Chennai. These cities could be targeted for new product launch or further expansion.
+
+Store & Delivery Performance:
+
+* In-store and online stores show different performance metrics in terms of sales and returns, with slightly higher returns in online purchases.
+* Total Online transactions are higher than in store transactions.
+* Average feedback scores also slightly vary based on store type, highlighting differences in customer experience.
+* Online orders have an average delivery time of 5 days and shipping cost of ₹434 rs. Faster delivery may enhance customer satisfaction.
+
+Customer Analysis:
+
+* 48,994 unique customers, with a repeat customer rate of 89% showing strong customer satisfaction.
+* Boomer II (60+ years) form the largest customer segment.
+* Average spending patterns remain even across genders.
+* Popular payment methods is debit card 
+
+
+Product Performance:
+
+* Top products that contributed to overall revenue were Laptop (61%) and Sofa (37%)
+* Highest product sold were Apple
+Data quality issue:
+* Missing product name, customer_id, transcation date, customer age.
